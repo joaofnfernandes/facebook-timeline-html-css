@@ -12,13 +12,9 @@ body{
     margin:20px auto;
 }
 
-a, a:visited{
+a, a:visited, a:hover, a:focus{
     color:#3B5998;
     text-decoration:none;
-}
-
-a:hover, a:focus{
-    text-decoration:underline;
 }
 
 img{
@@ -61,4 +57,32 @@ textarea{
 .clearfix {
     *zoom: 1;
 }
+
+/*jff*/
+
+
+.imageToLeft {
+    float:left;
+    margin: 0 10px 5px 0px;
+}
+
+h4 {
+  font: 20px verdana, 'lucida grande', sans-serif;
+  margin-bottom: 2px;
+}
+
+.author {
+  color: #999;
+  font-size: 11px;
+}
+
+.storyActions {
+  clear: both;
+}
+
+.chart {
+  /*min-height: 310px;*/
+  height: 175px;
+}
+
 

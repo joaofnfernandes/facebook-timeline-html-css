@@ -7,11 +7,12 @@
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
     
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= data.page.title || "The Middleman" %></title>
+    <title><%= data.page.title || "Joao Fernandes" %></title>
     
+    <!-- Import CSS and Js -->
     <%= stylesheet_link_tag "normalize", "all" %>
 		<%= stylesheet_link_tag "timeline", "fb-buttons" %>
-    <%= javascript_include_tag  "all" %>
+    <%= javascript_include_tag  "jquery-2.0.3", "scrollTo","highcharts", "chart" %>
   </head>
   
   <body class="<%= page_classes %>">
