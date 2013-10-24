@@ -82,7 +82,25 @@ h4 {
 
 .chart {
   /*min-height: 310px;*/
-  height: 175px;
+  height: 125px;
 }
 
+.pushNext > * {
+  vertical-align: middle;
+}
 
+.centerText {
+  color: #738FCC;
+  text-align: center;
+  font: 90px/86px verdana;
+}
+
+.pushNext {
+  margin-bottom: 15px;
+}
+
+.subdue {
+  text-align: center;
+  color: #DFDFDF;
+  font-size: 11px;
+}
