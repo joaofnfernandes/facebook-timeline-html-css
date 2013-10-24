@@ -1,16 +1,8 @@
-## Facebook Timeline in simple html and css
+## The List of Books I Read
 
-The goal of this project is to re-create facebook timeline with simple html/css and javascript. I created this as a prototype for a client.
-
-### Demo
-
-[http://artminister.com/examples/timeline/](http://artminister.com/examples/timeline/)
+The goal of this project is to create a list of the books I've read accross time. I though that a good way to represent this, was using an approach simmilar to facebook timeline.
 
 ## How to use it
 
-I am using [Middleman](http://middlemanapp.com) for development. The development files are in "source" folder.
-
-## Feature Requests
-
-Please create a github issue for a feature request
+As the original crator of the timeline, I'm using [Middleman](http://middlemanapp.com) to develop the application.
 
