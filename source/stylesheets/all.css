@@ -104,3 +104,7 @@ h4 {
   color: #DFDFDF;
   font-size: 11px;
 }
+
+.small {
+  max-width: 128px;
+}
